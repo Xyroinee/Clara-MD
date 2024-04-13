@@ -6,12 +6,12 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['6281573587196', 'Xyroinee', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '628xxx'
+global.nomorwa = '6281573587196'
 global.packname = 'anu - MD by'
 global.author = '© Xyroinee'
 global.namebot = '​anu - MD'
